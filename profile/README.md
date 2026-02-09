@@ -1,4 +1,3 @@
-.github
 # 🧠 Raos Health
 
 **Raos Health** is a technology-driven organization focused on building **secure, scalable, and intelligent digital health solutions**.  
